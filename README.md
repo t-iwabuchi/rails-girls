@@ -8,6 +8,8 @@
 * Ruby on Rails 5.1.2
 * MariaDB
 
+## 開発の手順
+
 ### リポジトリの取得
 
 ```sh
