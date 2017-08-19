@@ -22,6 +22,7 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'devise'
 gem 'carrierwave'
 
+gem 'mini_magick', '3.8.0'
 
 ### Assets関連
 gem 'therubyracer', platforms: :ruby
